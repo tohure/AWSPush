@@ -24,12 +24,12 @@
         "source": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
@@ -168,12 +168,12 @@
         "source": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
-    },
-    {
         "merged": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_ic_googleplayservices.png",
         "source": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",

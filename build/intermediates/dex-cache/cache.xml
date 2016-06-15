@@ -2,27 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_f74227b16240f542aab050b717bd76d23677bb2c/classes.dex" />
-    </item>
-    <item
-        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_04230dddd0ef968e2f33c4a56f88a6dd2de4256a/classes.dex" />
-    </item>
-    <item
-        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_c6c909ff43292784189099f9287d29de8885f3f5/classes.dex" />
-    </item>
-    <item
         jar="/home/carlo/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.2.15/3c7a5d15364d8e89397517b86a81a673e6f1bc58/aws-android-sdk-cognito-2.2.15.jar"
         jumboMode="true"
         revision="23.0.3"
@@ -37,60 +16,88 @@
         <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.2.15_47be1a586a471358f7111deb683995b3840b7b0f/classes.dex" />
     </item>
     <item
-        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jar="/home/carlo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_9d44aba5bac61658f925277a7037e0e00f453494/classes.dex" />
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_2f1a2dd56a1b15f0f5fbba07b7a8686e0ea570b5/classes.dex" />
     </item>
     <item
-        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_65b82a4ad32e414fa52ccdff32427139fb5de25c/classes.dex" />
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_d8a9ae0020a1bafb30164a42a79dafb6eecb3365/classes.dex" />
     </item>
     <item
-        jar="/home/carlo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_5acd1f57d049f46d729438fea457956f1bff0d35/classes.dex" />
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_2e9965e543b4e8091383f5a77fad29731f34319f/classes.dex" />
     </item>
     <item
-        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_cdd9c755af53b94b9adfc909d85f5a85624ccddb/classes.dex" />
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_3c060a3dec8378e9e5f348a287a5c04f14ed3ae4/classes.dex" />
+    </item>
+    <item
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_cbc23e8be7a8fd92dc5e8dcb62bc43eb3f413629/classes.dex" />
     </item>
     <item
         jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="425d7c6d4addff483ba391fff2d80f7ae1eaa377">
+        sha1="2e68083a64c53dfd683ed8ebe7545bfbec641f92">
         <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ce86d263888737cc00842c8c691f903fcdd5b614/classes.dex" />
     </item>
     <item
-        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_46f5b8eee2f8111acd47643d474ef4c8e9ac5526/classes.dex" />
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_2e6348774d14693c711d635d6f0c4495a4d8e5bc/classes.dex" />
     </item>
     <item
         jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="53d30aed3cb6da2c6ce0131f84e670e4794e1adf">
+        sha1="a01b31e2baf438f38ae8ef0eb9bf42a86a85da88">
         <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0ed0ef0d80f6abc97857dc2bf4a133d6d72410e4/classes.dex" />
     </item>
     <item
-        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_5fea81a42b29a4f90e0563db8ce1a5612cab76ff/classes.dex" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_bd9b9a1f5f8acc73ea9aa5f6f855813f839adb3f/classes.dex" />
+    </item>
+    <item
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_55391b889d662e27b6871b88b7cf6fd37e2e0cfa/classes.dex" />
+    </item>
+    <item
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_8f2b0af7d72f53cad3194c888c10e0fbc7a4c32c/classes.dex" />
+    </item>
+    <item
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ba46b26897f79783300201f8a2c87691be7aebd7/classes.dex" />
     </item>
     <item
         jar="/home/carlo/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-sns/2.2.15/4c93bb77f79b3cee20c2311169394edf37ca4a4/aws-android-sdk-sns-2.2.15.jar"
@@ -107,11 +114,18 @@
         <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-sqs-2.2.15_cdaac9d5d3f38362659976614c572884b053cddc/classes.dex" />
     </item>
     <item
-        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_724b426cf537a107a52563e083a73d37b819415b/classes.dex" />
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_1c8b7b37d1791bf05568dda20c684956c96a9856/classes.dex" />
+    </item>
+    <item
+        jar="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_4f66be59c9bbca1a2b7b2075c42d2bd29bf302fd/classes.dex" />
     </item>
     <item
         jar="/usr/local/android-studio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
