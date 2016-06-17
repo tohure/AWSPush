@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:3:1-57:12
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:3:1-59:12
 	package
 		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:4:5-40
 		INJECTED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml
@@ -50,44 +50,44 @@ ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/An
 	android:name
 		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:16:9-72
 application
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:19:5-56:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:19:5-58:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-gcm:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.gms:play-services-base:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.firebase:firebase-common:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:5:5-12:19
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-iid:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.gms:play-services-base:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.firebase:firebase-common:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:5:5-12:19
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:22:9-41
 	android:allowBackup
@@ -115,86 +115,88 @@ ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/An
 	android:name
 		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:31:27-74
 service#com.amazonaws.androidtest.MessageReceivingService
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:35:9-43:19
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:35:9-45:19
 	android:label
-		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:37:13-78
+		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:38:13-78
+	android:exported
+		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:37:13-37
 	android:name
 		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:36:13-77
 intent-filter#com.amazonaws.androidtest+com.amazonaws.androidtest.AndroidMobilePushApp+com.amazonaws.androidtest.ExternalReceiver
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:38:13-42:29
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:39:13-44:29
 action#com.amazonaws.androidtest.AndroidMobilePushApp
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:39:17-89
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:40:17-89
 	android:name
-		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:39:25-86
+		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:40:25-86
 action#com.amazonaws.androidtest.ExternalReceiver
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:40:17-85
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:41:17-85
 	android:name
-		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:40:25-82
+		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:41:25-82
 category#com.amazonaws.androidtest
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:41:17-70
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:43:17-70
 	android:name
-		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:41:27-67
+		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:43:27-67
 receiver#com.amazonaws.androidtest.ExternalReceiver
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:45:9-55:20
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:47:9-57:20
 	android:permission
-		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:47:13-73
+		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:49:13-73
 	android:name
-		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:46:13-70
+		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:48:13-70
 intent-filter#com.amazonaws.androidtest+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTER+com.google.android.c2dm.intent.REGISTRATION
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:48:13-54:29
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:50:13-56:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:49:17-81
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:51:17-81
 	android:name
-		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:49:25-78
+		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:51:25-78
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:50:17-86
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:52:17-86
 	android:name
-		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:50:25-83
+		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:52:25-83
 action#com.google.android.c2dm.intent.REGISTER
-ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:51:17-82
+ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:53:17-82
 	android:name
-		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:51:25-79
+		ADDED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml:53:25-79
 uses-sdk
 INJECTED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-gcm:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-base:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.firebase:firebase-common:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-iid:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-base:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.firebase:firebase-common:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.0.0] /home/carlo/Documentos/Android StudioProjects/AWSPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml
 		INJECTED from /home/carlo/Documentos/Android StudioProjects/AWSPush/app/src/main/AndroidManifest.xml
