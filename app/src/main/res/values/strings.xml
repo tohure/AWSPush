@@ -9,14 +9,11 @@
 
     <string name="app_name">Amazon Mobile Push</string>
     <string name="action_settings">Settings</string>
-    <string name="project_number">212043494342</string>
     <string name="introduction">Welcome! </string>
     <string name="clear_screen">Clear Screen</string>
     <string name="first_launch">First Launch</string>
     <string name="num_of_missed_messages">MissedMessageCount</string>
     <string name="lines_of_message_count">LinesOfMessageCount</string>
     <string name="preferences">PreferencesFile</string>
-    <string name="notification_number">1337</string>
-    <string name="identity_pool_id">us–east–1:b9d9ffa9-da62-4f6c-bca1-40f091d2ac3a</string>
 
 </resources>
